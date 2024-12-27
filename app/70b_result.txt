@@ -1,0 +1,14 @@
+
+Several factors affect the sound, including:
+
+1. Amplitude: The intensity of sound is directly proportional to the amplitude of sound.
+2. Distance of listener from the source: The intensity of sound decreases as the sound moves away from its source.
+3. Density of medium: In gaseous medium, the intensity of sound is directly proportional to its density.
+4. Area of vibrating body: If the area of vibrating body is larger, the intensity of the sound is higher.
+5. Frequency of sound: The intensity of sound is directly proportional to its frequency.
+
+Additionally, the velocity of sound is affected by:
+1. Density of air
+2. Temperature of air
+3. Humidity of air
+4. Direction of air molecules

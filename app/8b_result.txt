@@ -1,0 +1,8 @@
+
+The intensity of sound is affected by several factors including: 
+
+1. Distance of listener from the source: Intensity decreases as the sound moves away from its source.
+2. Amplitude: The intensity of sound is directly proportional to the amplitude of sound.
+3. Density of medium: In the gaseous medium, the intensity of sound is directly proportional to its density.
+4. Area of vibrating body: The larger the area of the vibrating body, the higher the intensity of the sound.
+5. Frequency of sound: The intensity of sound is directly proportional to its frequency.

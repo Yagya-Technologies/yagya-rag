@@ -1,0 +1,17 @@
+ipykernel 
+transformers
+sentence-transformers
+torch
+numpy
+matplotlib
+scikit-learn
+langchain-google-genai
+pypdf
+fastapi
+pydantic
+uvicorn
+qdrant-client
+pymupdf
+python-dotenv
+# "fastapi[standard]"
+
